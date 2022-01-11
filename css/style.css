@@ -6,6 +6,7 @@ body {
     font-style: normal;
 	font-weight: 300;
     overflow-x: hidden;
+    
 }
 
 
@@ -20,7 +21,7 @@ body {
 -----------------------------------------*/
 
 h1,h2 {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   letter-spacing: 1px;
 }
@@ -110,7 +111,7 @@ a:hover, a:active, a:focus {
 #cta,
 #team, #service,
 #contact {
-  padding-top: 100px;
+  padding-top: 60px;
   padding-bottom: 100px;
 }
 
@@ -136,7 +137,7 @@ footer {
 }
 
 .bg-home {
-  background-color: #ffdfa4;
+  background-color: #f6f5f3;
 }
 
 .bg-gg {
@@ -144,7 +145,7 @@ footer {
 }
 
 .bg-yell {
-  background-color: #fffec7;
+  background-color: #f6f5f3;
 }
 
 
@@ -246,7 +247,7 @@ footer {
 }
 
 .navbar-default .navbar-nav > li a:hover {
-    color: #444 !important;
+    color:orange !important;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
