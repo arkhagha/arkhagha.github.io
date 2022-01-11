@@ -77,14 +77,14 @@ html{
 }
 
 a {
-  color: #a1c45a;
+  color:orange;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
   text-decoration: none !important;
 }
 a:hover, a:active, a:focus {
-  color: #a1c45a;
+  color:orange;
   outline: none;
 }
 
@@ -186,7 +186,7 @@ footer {
 .sk-spinner-pulse {
   width: 60px;
   height: 60px;
-  background-color: #a1c45a;
+  background-color: orange;
   border-radius: 2%;
   -webkit-animation: sk-pulseScaleOut 1s infinite ease-in-out;
           animation: sk-pulseScaleOut 1s infinite ease-in-out; }
@@ -342,7 +342,7 @@ footer {
 }
 
 #cta .btn {
-  background-color: #a1c45a;
+  background-color: orange;
   border: 2px solid transparent;
   color: #ffffff;
   font-size: 14px;
@@ -564,7 +564,7 @@ footer {
 }
 .filter-wrapper li a:hover,
 .filter-wrapper li a:focus {
-  color: #a1c45a;
+  color: orange;
 }
 
 /*worktope box css*/
@@ -647,7 +647,7 @@ footer {
 
 #contact form input[type="submit"] {
     border-radius: 2px;
-  background-color: #a1c45a;
+  background-color: orange;
   border: none;
   font-weight: 500;
   letter-spacing: 2px;
@@ -704,7 +704,7 @@ footer .footer-link ul li a {
 }
 
 footer .footer-link ul li a:hover {
-  color: #a1c45a;
+  color: orange;
 }
 
 footer .footer-copyright {
@@ -749,7 +749,7 @@ footer .footer-copyright p {
 }
 
 .social-icon li a:hover {
-    background: #a1c45a;
+    background:orange;
     color: #ffffff;
     top: -5px;
 }
@@ -779,7 +779,7 @@ footer .footer-copyright p {
 }
 
 .go-top:hover {
-    background: #a1c45a;
+    background:orange;
     color: #ffffff;
 }
 
